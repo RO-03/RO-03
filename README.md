@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" height="200" src="https://iili.io/3vdmRx1.gif" alt="gif Agent" />
+<img align="right" height="200" src="donut.gif" alt="donut" />
 
 👋 Hi, I'm Roshan<br><br>🎓 Aspiring Software Engineer<br><br>💻 Passionate about building scalable applications and learning modern technologies.<br><br>🚀 Interested in Cloud Computing, Big Data, AI, and System Design.<br><br>🌱 Currently exploring new tools, frameworks, and best practices in software engineering.<br><br>🤝 Open to collaboration, internships, and entry-level opportunities.<br><br>📫 Reach me: roshan.kc7331@gmail.com<br>
 
