@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" height="150" src="https://tenor.com/uEUpsi04Nz9.gif" alt="Animated GIF" />
+<img align="right" height="200" src="https://tenor.com/uEUpsi04Nz9.gif" alt="AI Agent" />
 
 👋 Hi, I'm Roshan<br><br>🎓 Aspiring Software Engineer<br><br>💻 Passionate about building scalable applications and learning modern technologies.<br><br>🚀 Interested in Cloud Computing, Big Data, AI, and System Design.<br><br>🌱 Currently exploring new tools, frameworks, and best practices in software engineering.<br><br>🤝 Open to collaboration, internships, and entry-level opportunities.<br><br>📫 Reach me: roshan.kc7331@gmail.com<br>
 
@@ -19,9 +19,6 @@
 
 <br/>
 
-![](https://github-readme-stats.shion.dev/api?username=RO-03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RO-03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RO-03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -38,3 +35,5 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RO-03/RO-03/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
