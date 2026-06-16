@@ -10,9 +10,21 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RO-03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<br></br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RO-03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RO-03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RO-03/RO-03/trophy-output/trophy.svg" alt="trophy graph" />
+</div>
 
-
+### 🎮 Pac-Man Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RO-03/RO-03/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RO-03/RO-03/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RO-03/RO-03/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</div>
