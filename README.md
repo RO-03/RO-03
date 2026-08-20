@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RO-03/RO-03/stats-output/stats.svg" height="150" alt="stats graph" />
+  <!-- <img src="https://raw.githubusercontent.com/RO-03/RO-03/stats-output/stats.svg" height="150" alt="stats graph" /> -->
   <img src="https://raw.githubusercontent.com/RO-03/RO-03/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
